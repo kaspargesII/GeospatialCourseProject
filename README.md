@@ -26,4 +26,17 @@ cons:
 - Have to create our own dataset from apis
 - Fortnite dances
 
+#### LOTR: Analysis of the Lord of the Rings map. Could be related to projections to a 3d sphere, the movement of characters, isolation of areas, improving resolution of map etc. 
+#### https://scholarworks.wm.edu/asoer/3/
+pros:
+- Open-eneded and creative
+- Related to personal interest
+- low-key novel
+
+cons:
+- No real world evaluation/verification issues
+- Data sources may not be reliable/verifiable
+- May require rewatching the movies which is a pro
+
+
 
