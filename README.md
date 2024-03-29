@@ -21,6 +21,7 @@ pros:
 - Controlled environment
 - Fun to analyze
 - Fortnite dances/memes
+
 cons:
 - Have to create our own dataset from apis
 - Fortnite dances
