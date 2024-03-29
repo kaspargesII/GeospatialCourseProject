@@ -10,6 +10,7 @@ pros:
 - Data is global; can specify a focus area for specific angles of inquiry
 - It's cool data and many types of analysis can be done
 - People have engaged with it before, it has a lot of downloads
+
 cons:
 - It is quite big, 15 GB
 - The data collection method and limitations pertaining to this is not well documented
