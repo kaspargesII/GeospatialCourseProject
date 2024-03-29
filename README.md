@@ -38,5 +38,32 @@ cons:
 - Data sources may not be reliable/verifiable
 - May require rewatching the movies which is a pro
 
+### Freeform ideas
+
+- Ladestandere for forskellige lande (elbiler)
+- Food delivery maps
+- Noget med kræft
+- Grundvand
+- Sexarbejdere
+- Movement, hjemmearbejde 
+- Vurderingsstyrrelsen
+- Skibsfart, specielt henset til Suez kanalen 
+- Skibsfart omkring grønland
+- Krig
+- Politi woo
+- Miljøøø
+- Elektricitet
+- Virksomheder og retail
+- Kinesisk real estate market
+- Sanction and trade correlation - Where do people trade once sanctions are imposed? 
+- The line Saudi Arabia?
+- Rainforest reduction
+- Fordeling af religion
+- Fordeling af kulturtilbud 
+- Dialekter
+- Citations, geographic network
+- Boligmarkedet vækst - hvor skal man købe bolig i kbh?
+
+
 
 
