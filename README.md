@@ -1,8 +1,17 @@
 # GeospatialCourseProject
 Contains our exam project for the Geospatial Data Science course
+Our project idea: Where did the forest go in Demark and where should we invite it back? 
+
+Using data from https://dataforsyningen.dk/data/952
 
 
-## Project ideas: 
+
+
+
+
+
+
+## Project ideas brainstorm: 
 
 #### Investigating internet speeds related to location, idea could be as a "travel tool": https://www.kaggle.com/datasets/dhruvildave/ookla-internet-speed-dataset
 pros: 
