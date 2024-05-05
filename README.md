@@ -11,6 +11,8 @@ Using data from https://dataforsyningen.dk/data/952
 https://dataverse.geus.dk/dataset.xhtml?persistentId=doi:10.22008/FK2/AAEEMN
 ### forest areas etc. dataset (OSM data) 
 https://download.geofabrik.de/europe/denmark.html
+### Regions, kommuner, sogne
+https://dataforsyningen.dk/data/992
 
 
 
