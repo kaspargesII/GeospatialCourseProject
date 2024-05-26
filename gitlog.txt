@@ -1,0 +1,375 @@
+commit b3dad01cca1dc793dc8564e1e959596b5e01a353
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Sun May 26 16:04:06 2024 +0200
+
+    Update README.md
+
+commit 72eccc06beb2c090ac4e57bdd8fc9bc10da30db1
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Sun May 26 16:01:50 2024 +0200
+
+    Delete Exploring_project_data.ipynb
+
+commit d7eeb67a0f4f861f6909e1821dbe82289c91f919
+Merge: d12d8fd 07f4e95
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 26 15:59:35 2024 +0200
+
+    Merge pull request #15 from kaspargesII/Steinar2
+    
+    final version
+
+commit 07f4e9510337400e7ac50e080fe352118abbd072
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun May 26 15:58:55 2024 +0200
+
+    final version
+
+commit d12d8fdbe86dd53779402d870a6191e2e74ba4a1
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 26 15:23:29 2024 +0200
+
+    Update README.md
+
+commit 73fe39e17ebc108005a930510a691d2b81d51abb
+Merge: 09fbc38 d919de9
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 26 15:10:07 2024 +0200
+
+    Merge pull request #14 from kaspargesII/Steinar2
+    
+    final cleaning
+
+commit d919de90e4675b56b3716e315e2875eed4ff1f79
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun May 26 15:09:35 2024 +0200
+
+    final cleaning
+
+commit 09fbc388e2c51f38425857d1d5f544578e86425b
+Merge: e5de745 03c2eb5
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Fri May 24 13:23:28 2024 +0200
+
+    Merge pull request #13 from kaspargesII/Steinar2
+    
+    added the zipped dataset
+
+commit 03c2eb5b7319c9653dcb050851eac522ca7e1ce9
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Fri May 24 13:21:05 2024 +0200
+
+    added the zipped dataset
+
+commit e5de7456ae5b5c82a2937d3d5c80c83715d84020
+Merge: 492f383 ca23c5e
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Fri May 24 12:57:13 2024 +0200
+
+    Merge pull request #12 from kaspargesII/Steinar2
+    
+    added proposed new regions based on existing resources
+
+commit ca23c5ed042e1d64e55267b63274244bba1945e8
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Fri May 24 12:56:07 2024 +0200
+
+    added proposed new regions based on existing resources
+
+commit 492f383fe584610ace618d4ed9826c6ab7ebf2e9
+Merge: aa05cbc de3de95
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Wed May 22 17:07:06 2024 +0200
+
+    Merge pull request #11 from kaspargesII/Steinar2
+    
+    added the new forest areas df
+
+commit de3de95c57b6da3d900212fa483affbba6e568dd
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Wed May 22 17:06:34 2024 +0200
+
+    added the new forest areas df
+
+commit aa05cbcd4fd8dd187d940dd25051e25b88ce7611
+Merge: 80fff99 562be76
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Wed May 22 15:05:40 2024 +0200
+
+    Merge pull request #10 from kaspargesII/Steinar1
+    
+    small changes
+
+commit 562be76ed526d6d5e4e1741fd5bf181655ddb8a0
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Wed May 22 15:04:49 2024 +0200
+
+    small changes
+
+commit 80fff9937e1ce22c667eda2f7eb338538a9add3b
+Author: kasparges <kasf@itu.dk>
+Date:   Wed May 22 14:28:19 2024 +0200
+
+    local spatial autocorrelation
+
+commit 864aacff9d98f13eba9a6fbaecdda1555a8862e6
+Merge: ad1a591 479ef7b
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Wed May 22 14:28:05 2024 +0200
+
+    Merge pull request #9 from kaspargesII/Steinar1
+    
+    added some minor stuff
+
+commit 479ef7ba59896bd8556f890800bcf92f0323a612
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Wed May 22 14:27:24 2024 +0200
+
+    added some minor stuff
+
+commit ad1a591c82b3914cef669b2e2e062ed00f49c928
+Merge: 20d26c0 a615986
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Wed May 22 14:26:13 2024 +0200
+
+    Merge pull request #8 from kaspargesII/Steinar1
+    
+    added some more analysis stuff
+
+commit a6159863b85b70766dde5f10449818ee4110bfc5
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Wed May 22 14:25:44 2024 +0200
+
+    added some more analysis stuff
+
+commit 20d26c0dd2f0d77f530d82be12f8257f217c7c4a
+Author: kasparges <kasf@itu.dk>
+Date:   Wed May 22 10:09:15 2024 +0200
+
+    changes to global spatial autocorrelation
+
+commit c6b4a4658ab692bcb7792bfe616446f0c857eeb4
+Author: kasparges <kasf@itu.dk>
+Date:   Tue May 21 21:57:48 2024 +0200
+
+    Plot improvements
+
+commit 4d6639137dee0c173f9370ef146b363ad895d37f
+Merge: 0f06090 dc8404f
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Tue May 21 00:39:59 2024 +0200
+
+    Merge pull request #7 from kaspargesII/Steinar1
+    
+    made some changes to variables that contained old names
+
+commit dc8404fe4b75bf896aba555dec1ea142c1b63211
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Tue May 21 00:39:35 2024 +0200
+
+    made some changes to variables that contained old names
+
+commit 0f06090d85c9daf375dffdd5a9b63df43894f70a
+Merge: 4beef38 28ce376
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Mon May 20 15:16:35 2024 +0200
+
+    Merge pull request #6 from kaspargesII/Steinar1
+    
+    added normalized usability column and visualization
+
+commit 28ce3768aa2835f0642344492440d10c97f49b01
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Mon May 20 15:15:41 2024 +0200
+
+    added normalized usability column and visualization
+
+commit 4beef38038d92b762f143f11c8e1f0030a66f9f0
+Merge: 93e0df9 56d70b8
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sat May 18 10:47:15 2024 +0200
+
+    Merge pull request #5 from kaspargesII/Steinar1
+    
+    notebook with all the correct data and some visualizations
+
+commit 56d70b8937e2fc1f82d6d919d467b71fc2866ac2
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sat May 18 10:46:42 2024 +0200
+
+    notebook with all the correct data and some visualizations
+
+commit 93e0df95a8485635cbf4199c59ca658b8464493d
+Merge: 4163ebf 212d9fc
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 5 20:03:31 2024 +0200
+
+    Merge pull request #4 from kaspargesII/Steinar1
+    
+    added the full combined plot for the soil, areas and regions
+
+commit 212d9fc443f04dfbdc2643d553e5b9979bee6983
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun May 5 20:02:32 2024 +0200
+
+    added the full combined plot for the soil, areas and regions
+
+commit 4163ebf07e31c477ae58ae4c4f818c157989d6db
+Author: kasparges <kasf@itu.dk>
+Date:   Sun May 5 18:38:51 2024 +0200
+
+    Global autocorrelation of percentage forest area
+
+commit d4da5ec488b3e509e9b058d525a733e3f17dd4f0
+Merge: 1a7dad6 39530c6
+Author: kasparges <kasf@itu.dk>
+Date:   Sun May 5 17:37:14 2024 +0200
+
+    Merge branch 'main' of github.com:kaspargesII/GeospatialCourseProject
+
+commit 39530c69530f7e93152364ef733850b1f7295204
+Merge: 81c0560 7529804
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 5 17:35:46 2024 +0200
+
+    Merge pull request #3 from kaspargesII/Steinar
+    
+    changed the way we calculated the overlay of forest and soil data
+
+commit 7529804c4140bd2c286d9625c1295bb204e35581
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun May 5 17:34:39 2024 +0200
+
+    changed the way we calculated the overlay of forest and soil data
+
+commit 81c0560d65aad0702eb639e9dabf5800c85b4bb5
+Author: kasparges <kasf@itu.dk>
+Date:   Sun May 5 17:33:16 2024 +0200
+
+    chloropleth maps of forestation in dk
+
+commit 3d104abb9b5d6f9673892e5d2db0f4de2cc0c466
+Author: kasparges <kasf@itu.dk>
+Date:   Sun May 5 17:32:10 2024 +0200
+
+    Exploring different project datasets, recommit
+
+commit 1a7dad66f4e414a1c8c517dde60bb55674acfe0f
+Author: kasparges <kasf@itu.dk>
+Date:   Sun May 5 17:30:32 2024 +0200
+
+    exploring datasets, recommit
+
+commit dac23fb133629fc3d2c58b8a5ed34f94481f5dfc
+Author: kasparges <kasf@itu.dk>
+Date:   Sun May 5 17:26:42 2024 +0200
+
+    Chloropleth maps of forestation
+
+commit 4d13f6e34b5c2bfa97bc5d7b1ffb5e9598e4c4db
+Merge: 02cec9a 0d82c06
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 5 17:04:30 2024 +0200
+
+    Merge pull request #2 from kaspargesII/Steinar
+    
+    did some cleaning
+
+commit 0d82c06de63f918000bdae4b4d845db0dfdc20e4
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun May 5 17:04:05 2024 +0200
+
+    did some cleaning
+
+commit 02cec9ac57bb756a1782fce3369090b966c1fcf8
+Merge: 87b1892 b7e5295
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 5 15:20:15 2024 +0200
+
+    Merge pull request #1 from kaspargesII/Steinar
+    
+    added a gitignore and made some changes/fixes
+
+commit b7e52954333e3ce8073aab19e8c182b828fc55c1
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun May 5 15:19:33 2024 +0200
+
+    added a gitignore and made some changes/fixes
+
+commit 87b1892609111af7ea3bdaef5acb985845c5b127
+Author: kasparges <kasf@itu.dk>
+Date:   Sun May 5 15:09:13 2024 +0200
+
+    administrative regions
+
+commit 5b290ace6bacd15395fdcab0cd33eecf086ddbc1
+Author: Steinar Slette <71990567+Steinar-Slette@users.noreply.github.com>
+Date:   Sun May 5 14:27:32 2024 +0200
+
+    Update README.md
+
+commit 2f025554ded90374b77b484c49384a2cc6760ae3
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun May 5 14:22:26 2024 +0200
+
+    another try
+
+commit acc666aa02d8b54316df63447c2d8a8f76b81903
+Author: Steinar Slette <steni_slett@hotmail.com>
+Date:   Sun Apr 14 19:37:59 2024 +0200
+
+    notebook added
+
+commit fbb21bebb6bc966696ea58f6f90729f5351c2370
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Tue Apr 2 14:27:56 2024 +0200
+
+    Update README.md
+
+commit d148cc1821b56e2432496f07aa986eae392fdf37
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Fri Mar 29 17:40:37 2024 +0100
+
+    Update README.md
+
+commit 6846ec4b76bb3062d978b01e9939ce297443560a
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Fri Mar 29 12:33:49 2024 +0100
+
+    Update README.md
+
+commit 5f643e74c18d235e53bb789c2639c2f340ba5258
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Fri Mar 29 10:52:23 2024 +0100
+
+    Update README.md
+
+commit 0ee211c49480c3dd0a7ba2664fdf9cd6cd50be86
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Fri Mar 29 10:52:09 2024 +0100
+
+    Update README.md
+
+commit f3459a1158b7445952ceb91863216edad65c6b0c
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Fri Mar 29 10:51:02 2024 +0100
+
+    Update README.md
+
+commit 5ee35525e4940e67958dc6e8a9ca39a04701d5c7
+Author: kasparges <kasf@itu.dk>
+Date:   Fri Mar 29 10:45:45 2024 +0100
+
+    Project ideas notebook
+
+commit 0b590a3e47c9d3182efe8251f84c4a4fa8bd86ae
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Fri Mar 29 10:29:54 2024 +0100
+
+    Update README.md
+
+commit 267e07283de4cc8c9693ef7e0c98760c81373e41
+Author: kaspargesII <117733606+kaspargesII@users.noreply.github.com>
+Date:   Fri Mar 29 10:10:47 2024 +0100
+
+    Initial commit
